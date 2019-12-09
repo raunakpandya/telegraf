@@ -1,6 +1,6 @@
 # Telegraf [![Circle CI](https://circleci.com/gh/influxdata/telegraf.svg?style=svg)](https://circleci.com/gh/influxdata/telegraf) [![Docker pulls](https://img.shields.io/docker/pulls/library/telegraf.svg)](https://hub.docker.com/_/telegraf/)
 
-Telegraf is an agent for collecting, processing, aggregating, and writing metrics.
+Test Telegraf is an agent for collecting, processing, aggregating, and writing metrics.
 
 Design goals are to have a minimal memory footprint with a plugin system so
 that developers in the community can easily add support for collecting
